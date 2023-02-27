@@ -1,0 +1,29 @@
+---
+title: 王有冕
+authors:
+  - 王有冕
+superuser: false
+role: 研三在读
+organizations:
+  - name: 济南大学
+    url: 'https://www.ujn.edu.cn/'
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
+interests:
+  - 身心健康计算
+education:
+  courses:
+    - course: 电子信息 硕士
+      institution: 济南大学
+      year: 2020
+    - course: 物联网工程 学士
+      institution: 滨州学院
+      year: 2016
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: '1184654516@qq.com'
+email: '1184654516@qq.com'
+user_groups:
+  - 在读学生
+---
+？这是啥
