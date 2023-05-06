@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: 👋 欢迎来访LOCI课题组
-      content: 在这里你可以更加详细的了解我们的课题组...
+      content: 在这里你可以更加详细的了解我们的课题组
       align: center
       background:
         position: right
@@ -30,7 +30,7 @@ content:
         url: ../zh/people/
 
     - title: 👋 欢迎来访LOCI课题组
-      content: 在这里你可以更加详细的了解我们的课题组...
+      content: 在这里你可以更加详细的了解我们的课题组
       align: center
       background:
         position: center
@@ -44,7 +44,7 @@ content:
         url: ../zh/people/
 
     - title: 👋 欢迎来访LOCI课题组
-      content: 在这里你可以更加详细的了解我们的课题组...
+      content: 在这里你可以更加详细的了解我们的课题组
       align: center
       background:
         position: center
