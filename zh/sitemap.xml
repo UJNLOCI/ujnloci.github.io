@@ -34,9 +34,9 @@
       href="https://ujnloci.github.io/zh/"
     /></url>
   <url>
-    <loc>https://ujnloci.github.io/zh/post/start/</loc><lastmod>2022-10-26T10:44:30+08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ujnloci.github.io/zh/post/2023-graduate/</loc><lastmod>2023-07-06T00:06:55+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ujnloci.github.io/zh/post/</loc><lastmod>2022-10-26T10:44:30+08:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://ujnloci.github.io/zh/post/</loc><lastmod>2023-07-06T00:06:55+08:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://ujnloci.github.io/en/post/"
@@ -45,6 +45,10 @@
       hreflang="zh"
       href="https://ujnloci.github.io/zh/post/"
     /></url>
+  <url>
+    <loc>https://ujnloci.github.io/zh/post/academic-meeting/</loc><lastmod>2023-07-04T00:03:56+08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ujnloci.github.io/zh/post/start/</loc><lastmod>2022-10-26T10:44:30+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ujnloci.github.io/zh/post/20-12-02-icml-best-paper/</loc><lastmod>2020-12-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
@@ -243,6 +247,8 @@
       hreflang="zh"
       href="https://ujnloci.github.io/zh/author/%E5%90%B3%E6%81%A9%E9%81%94/"
     /></url>
+  <url>
+    <loc>https://ujnloci.github.io/zh/author/%E5%A7%9C%E6%99%93%E5%BA%86/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ujnloci.github.io/zh/author/%E6%9D%8E%E7%BF%B0%E6%96%87/</loc><changefreq>weekly</changefreq></url>
   <url>
