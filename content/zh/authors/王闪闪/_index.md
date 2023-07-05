@@ -57,8 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 任职人员
-- Group 2
+- 指导教师
 ---
 ## 论文发表
 - Wang S, Yan Q, Chen Z, et al. Detecting Android Malware Leveraging Text Semantics of Network Flows[J]. IEEE Transactions on Information Forensics & Security, 2017, PP(99):1-1.
