@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Start"
+title: "新的页面，新的开始！"
 subtitle: ""
 summary: ""
 authors: []
@@ -28,4 +28,6 @@ image:
 projects: []
 ---
 
-2022-10-26 LOCI新版本课题组正式发布啦
+2022-10-26 LOCI新版本课题组正式发布啦!
+
+<!--more-->
