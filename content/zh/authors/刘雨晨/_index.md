@@ -3,7 +3,7 @@ title: 刘雨晨
 authors:
   - 刘雨晨
 superuser: false
-role: 研一在读
+role: 研二在读
 organizations:
   - name: 济南大学
     url: 'https://www.ujn.edu.cn/'

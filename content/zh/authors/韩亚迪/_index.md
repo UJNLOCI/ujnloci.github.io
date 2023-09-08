@@ -3,7 +3,7 @@ title: 韩亚迪
 authors:
   - 韩亚迪
 superuser: false
-role: 研二在读
+role: 研三在读
 organizations:
   - name: 济南大学
     url: 'https://www.ujn.edu.cn/'

@@ -3,7 +3,7 @@ title: 王培丞
 authors:
   - 王培丞
 superuser: false
-role: 研二
+role: 研三在读
 organizations:
   - name: 济南大学
     url: 'https://www.ujn.edu.cn/'

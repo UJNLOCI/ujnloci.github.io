@@ -19,6 +19,7 @@ content:
     - 教授
     - 指导教师
     - 在读学生
+    - 毕业学生
 design:
   show_interests: true
   show_role: true

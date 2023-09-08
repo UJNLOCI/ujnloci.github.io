@@ -3,7 +3,7 @@ title: 郑维亮
 authors:
   - 郑维亮
 superuser: false
-role: 研三在读
+role: 毕业
 organizations:
   - name: 济南大学
     url: 'https://www.ujn.edu.cn/'
@@ -24,6 +24,6 @@ social:
     link: '519209974@qq.com'
 email: '519209974@qq.com'
 user_groups:
-  - 在读学生
+- 毕业学生
 ---
 无

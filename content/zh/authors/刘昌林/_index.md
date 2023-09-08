@@ -3,7 +3,7 @@ title: 刘昌林
 authors:
   - 刘昌林
 superuser: false
-role: 研一在读
+role: 研二在读
 organizations:
   - name: 济南大学
     url: 'https://www.ujn.edu.cn/'

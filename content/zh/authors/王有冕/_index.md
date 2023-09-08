@@ -3,7 +3,7 @@ title: 王有冕
 authors:
   - 王有冕
 superuser: false
-role: 研三在读
+role: 毕业
 organizations:
   - name: 济南大学
     url: 'https://www.ujn.edu.cn/'
@@ -24,6 +24,7 @@ social:
     link: '1184654516@qq.com'
 email: '1184654516@qq.com'
 user_groups:
-  - 在读学生
+  - 毕业学生
+
 ---
 ？这是啥

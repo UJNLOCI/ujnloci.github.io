@@ -3,7 +3,7 @@ title: 王虎成
 authors:
   - 王虎成
 superuser: false
-role: 研三在读
+role: 毕业
 organizations:
   - name: 济南大学
     url: 'https://www.ujn.edu.cn/'
@@ -24,6 +24,6 @@ social:
     link: 'wanghc@stu.ujn.edu.cn'
 email: 'wanghc@stu.ujn.edu.cn'
 user_groups:
-  - 在读学生
+  - 毕业学生
 ---
 好的
