@@ -4,7 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: LOCI - The Lab of Cyber Intelligence # Website name
-baseURL: 'https://ujnloci.github.io/' # Website URL
+# baseURL: 'https://ujnloci.github.io/' # Website URL
+
+baseURL: 'https://remarkable666.github.io/'
 
 ############################
 ## LANGUAGE
