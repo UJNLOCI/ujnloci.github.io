@@ -9,7 +9,7 @@ organizations:
     url: 'https://www.ujn.edu.cn/'
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 interests:
-  - 黑产
+  - 黑产、人工智能
 education:
   courses:
     - course: 计算机科学与技术 硕士
@@ -21,9 +21,9 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '243151609@qq.com'
+    link: 'mailto:243151609@qq.com'
 email: '243151609@qq.com'
 user_groups:
   - 在读学生
 ---
-hhhh
+一整个宇宙，换一颗红豆

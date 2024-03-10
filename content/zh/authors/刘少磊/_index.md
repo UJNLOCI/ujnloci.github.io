@@ -21,7 +21,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '15253464198@163.com'
+    link: 'mailto:15253464198@163.com'
 email: '15253464198@163.com'
 user_groups:
   - 在读学生

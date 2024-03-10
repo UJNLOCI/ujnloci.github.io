@@ -21,7 +21,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '296769391@qq.com'
+    link: 'mailto:296769391@qq.com'
 email: '296769391@qq.com'
 user_groups:
   - 在读学生

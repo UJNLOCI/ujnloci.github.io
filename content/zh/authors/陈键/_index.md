@@ -21,7 +21,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'juruoerc@163.com'
+    link: 'mailto:juruoerc@163.com'
 email: 'juruoerc@163.com'
 user_groups:
   - 在读学生

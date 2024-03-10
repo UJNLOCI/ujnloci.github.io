@@ -21,9 +21,9 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'oldloser359565@163.com'
+    link: 'mailto:oldloser359565@163.com'
 email: 'oldloser359565@163.com'
 user_groups:
   - 在读学生
 ---
-鲜衣怒马少年郎，谁人不识礼堂王
+鲜衣怒马少年郎，谁人不识理塘王

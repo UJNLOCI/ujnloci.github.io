@@ -21,7 +21,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'yadi0724@163.com'
+    link: 'mailto:yadi0724@163.com'
 email: 'yadi0724@163.com'
 user_groups:
   - 在读学生
