@@ -6,10 +6,10 @@
 title: LOCI - The Lab of Cyber Intelligence # Website name
 baseURL: 'https://ujnloci.github.io/' # Website URL
 
+
 ############################
 ## LANGUAGE
 ############################
-
 defaultContentLanguage: zh
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: true

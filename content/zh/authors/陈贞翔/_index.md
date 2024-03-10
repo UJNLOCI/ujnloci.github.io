@@ -55,6 +55,11 @@ user_groups:
 陈贞翔，男，教授，博士生导师，现为济南大学信息科学与工程学院院长，山东省大数据产业创新中心主任，十三五信息处理与认知计算高校重点实验室学科带头人。CCF高级会员，IEEE会员，ACM会员，ACM济南主席，CCF YOCSEF济南2018-2019年度主席，CCF济南分部2020-2022年度副主席，山东计算机学会副秘书长、常务理事，中国计算机学会互联网专委会委员，山东计算机学会网络安全专委会委员，获济南市高校自主创新团队领军人才称号、山东省高校优秀青年创新团队带头人，获山东省优秀研究生指导教师荣誉称号，担任教育部学位与研究生教育信息化专家组成员。
 
 ## 论文发表
+
+- Shanshan Wang; Zhenxiang Chen; Qiben Yan; Ke Ji; Lizhi Peng; Bo Yang; Mauro Conti ; Deep
+and broad URL feature mining for android malware detection, Information Sciences, 2020, 513: 600-
+613hugo
+
 - Machine learning based mobile malware detection using highly imbalanced network traffic.
 Zhenxiang Chen*, Qiben Yan, Hongbo Han, Shanshan Wang, Lizhi Peng, Lin Wang, Bo Yang
 In (Elsevier) Information Sciences 2018，433: 346-364.

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 教师
+role: 讲师
 
 # Organizations/Affiliations
 organizations:
@@ -24,14 +24,14 @@ bio:
 interests:
 - 心理健康计算
 
-education:
-  courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+# education:
+#   courses:
+#   - course: Title course 1
+#     institution: Name of Institution
+#     year: 2012
+#   - course: Title course 1
+#     institution: Name of Institution
+#     year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'jxq@qq.com' 
+  link: 'mailto:jxq@qq.com' 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

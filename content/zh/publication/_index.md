@@ -11,6 +11,12 @@ banner:
 ---
 ### Publications
 
+#### **2024**
+
+- **Encrypted Malicious Traffic Detection Based on Graph Convolutional Network and Temporal Dissection**
+  - 作者: Yuchen Liu, Shanshan Wang, Jin Au-Yeung, Zhenxiang Chen
+  - 级别: CCF-C
+  - 会议/期刊名称: The 2024 27th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2024)
 
 #### **2023**
 
@@ -66,6 +72,26 @@ banner:
   - 作者: Yadi Han, Shanshan Wang, Yiwen Li, Xueyang Cao, Limei Huang, Zhenxiang Chen
   - 级别: CCF-C
   - 会议/期刊名称: The 10th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2023)
+
+- **Safety or Not? A Comparative Study for Deep Learning Apps on Smartphones**
+  - 作者: Jin Au-yeung, Shanshan Wang, Yuchen Liu, Zhenxiang Chen
+  - 级别: CCF-C
+  - 会议/期刊名称: 22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom-2023)
+
+- **Exploring Wi-Fi Privacy Disclosure: A Novel Approach to User Identity Prediction Based on Traffic Multi-Level Information**
+  - 作者: Yiwen Li, Shanshan Wang, Zhenxiang Chen, Xueyang Cao and Yadi Han
+  - 级别: CCF-C
+  - 会议/期刊名称: The 29th IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS 2023)
+
+- **The Seconday Isolated Data Island: Isolated Data Island Caused by Blockchain in Federated Learning**
+  - 作者: Chenghan Wang, Shanshan Wang, Chuan Zhao , Xueyang Cao, Shuhao Yan, Yadi Han, Limei Huang, Xueyang Cao, Zhenxiang Chen
+  - 级别: CCF-B
+  - 会议/期刊名称: 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2023)
+
+- **Decentralized Reinforced Anonymous FLchain: a Secure Federated Learning Architecture for the Medical Industry**
+  - 作者: Chenghan Wang, Shanshan Wang, Chuan Zhao, Wenyue Wang, Bin Hu, Youmian Wang, Lin Wang, Zhenxiang Chen
+  - 级别: CCF-C
+  - 会议/期刊名称: 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC 2023)
 
 #### **2022**
 
