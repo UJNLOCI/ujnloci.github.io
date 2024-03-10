@@ -58,7 +58,7 @@ user_groups:
 
 - Shanshan Wang; Zhenxiang Chen; Qiben Yan; Ke Ji; Lizhi Peng; Bo Yang; Mauro Conti ; Deep
 and broad URL feature mining for android malware detection, Information Sciences, 2020, 513: 600-
-613hugo
+613
 
 - Machine learning based mobile malware detection using highly imbalanced network traffic.
 Zhenxiang Chen*, Qiben Yan, Hongbo Han, Shanshan Wang, Lizhi Peng, Lin Wang, Bo Yang
