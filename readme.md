@@ -77,3 +77,5 @@ git push
 将项目部署到本地时，只需要克隆 `ujnloci-page-dev` 仓库内的源代码，然后编译后即可生成静态页资源.
 
 每次更新信息或修改内容后都要先执行 `hugo` 命令编译静态资源，然后将源代码和静态页面资源分别上传到 `ujnloci-page-dev` 和 `ujnloci.github.io` 仓库即可。
+
+[【工作中项目git都如何管理，冲突，push不上去如何解决-哔哩哔哩】](https://b23.tv/8wIoI08)
